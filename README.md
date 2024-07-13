@@ -80,15 +80,6 @@ To get started with the project, follow these steps:
 - **Search by Phone Number:** `/api/search/phone/`
 - **Search by Name:** `/api/search/name/`
 
-## Data Population
 
-For testing purposes, you can write a script or use fixtures to populate your database with sample data.
 
-## Evaluation Criteria
 
-- Completeness of functionality.
-- Correctness under thorough testing.
-- Performance and scalability of APIs.
-- Security of APIs.
-- Data modeling.
-- Structure and readability of code.
